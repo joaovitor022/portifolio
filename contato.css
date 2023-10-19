@@ -96,3 +96,7 @@
   .error {
     color: tomato;
   }
+
+  .banner-1 {
+    background-image: url(/assets/jvs.png);
+  }
