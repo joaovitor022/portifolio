@@ -3,7 +3,7 @@
 }
 
 .banner-1 {
-  background-image: url(/assets/nav.png);
+  background-image: url(/assets/jvs.png);
 }
 
 .banners {
@@ -155,3 +155,91 @@ strong {
 .des {
   color: #050505;
 }
+
+.forme{
+  background-color: #272a37;
+}
+
+.formulario {
+  width: 100%;
+  max-width: 30rem;
+}
+
+#men,
+#inp,
+#mensagem,
+.formulario {
+  display: block;
+}
+
+#inp,
+#mensagem,
+.formulario {
+  width: 100%;
+  font: inherit;
+  padding: 1.25rem;
+  font-weight: 700;
+}
+
+.formulario,
+#mensagem {
+  margin-bottom: 1rem;
+  color: white;
+  background: #323644;
+  border: 0.125rem solid transparent;
+  border-radius: 1.125rem;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#inp:hover,
+#men:focus,
+#mensagem:hover,
+#mensagem:focus {
+  outline: none;
+  border-color: #1d90f5;
+  box-shadow: 0 0 0 0.3125rem #26344a;
+}
+
+#men {
+  margin-bottom: 0.5rem;
+  color: #84868f;
+}
+
+#mensagem {
+  min-height: 12.5rem;
+  resize: vertical;
+}
+
+#enviar {
+  border: none;
+  border-radius: 99px;
+  color: white;
+  background: #1d90f5;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#enviar:hover,
+#enviar:focus {
+  outline: none;
+  background: #1c70d3;
+}
+
+.formulario:disabled {
+  cursor: not-allowed;
+  background: #555b69;
+}
+
+.success,
+.error {
+  text-align: center;
+}
+
+.success {
+  color: greenyellow;
+}
+
+.error {
+  color: tomato;
+}
+
