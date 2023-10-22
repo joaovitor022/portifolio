@@ -156,7 +156,7 @@ strong {
   color: #050505;
 }
 
-.forme{
+.forme {
   background-color: #272a37;
 }
 
@@ -243,3 +243,10 @@ strong {
   color: tomato;
 }
 
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000;
+  color: #fff;
+}
