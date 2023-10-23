@@ -1,3 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #9292927a;
+  margin: 0;
+  padding: 0;
+
+}
 .font {
   font-family: monospace;
 }
@@ -144,7 +155,7 @@ strong {
 
 .whast {
   font-size: 20px;
-  color: #003cff;
+  color: green;
 }
 
 .java12 {
@@ -196,8 +207,8 @@ strong {
 #mensagem:hover,
 #mensagem:focus {
   outline: none;
-  border-color: #1d90f5;
-  box-shadow: 0 0 0 0.3125rem #26344a;
+  border-color: #929292;
+  box-shadow: 0 0 0 0.3125rem #929292;
 }
 
 #men {
@@ -214,7 +225,7 @@ strong {
   border: none;
   border-radius: 99px;
   color: white;
-  background: #1d90f5;
+  background: #929292;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -222,7 +233,7 @@ strong {
 #enviar:hover,
 #enviar:focus {
   outline: none;
-  background: #1c70d3;
+  background: #929292;
 }
 
 .formulario:disabled {
@@ -246,7 +257,52 @@ strong {
 
 .footer {
   text-align: center;
-  padding: 20px;
-  background-color: #000000;
-  color: #fff;
+  background-color: #9292927a;
+  color: #111111;
+}
+
+.whfo{
+  font-size: 24px;
+  color: green;
+}
+
+.linke{
+  font-size: 24px;
+  color: rgb(0, 60, 255);
+}
+
+.contatoema{
+  font-size: 24px;
+  color: rgb(255, 0, 0);
+}
+
+.contatoemae{
+  font-size: 16px;
+  color: #ff0000;
+}
+
+.blog{
+  background-color: #9292927a;
+  margin: 0;
+  margin-top: 0;
+}
+
+.joao{
+  background-color: #9292927a;
+}
+
+.my{
+    font-size: 24px;
+    color: #050505;
+
+}
+
+.linked{
+  font-size: 20px;
+  color: rgb(0, 60, 255);
+}
+
+.sq{
+  font-size: 20px;
+  color: rgba(255, 0, 0, 0.685);
 }
