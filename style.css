@@ -3,12 +3,13 @@
   padding: 0;
 }
 
-body{
+body {
   background-color: #9292927a;
   margin: 0;
   padding: 0;
 
 }
+
 .font {
   font-family: monospace;
 }
@@ -63,6 +64,7 @@ strong {
 
 .conhep {
   font-family: courier, arial, helvetica;
+  color: #000000;
 }
 
 .java1 {
@@ -72,7 +74,7 @@ strong {
 
 .tj {
   background-color: #424242;
-  color: #dc3545;
+  color: #ffffff;
 }
 
 .java {
@@ -261,48 +263,59 @@ strong {
   color: #111111;
 }
 
-.whfo{
+.whfo {
   font-size: 24px;
   color: green;
 }
 
-.linke{
+.linke {
   font-size: 24px;
   color: rgb(0, 60, 255);
 }
 
-.contatoema{
+.contatoema {
   font-size: 24px;
   color: rgb(255, 0, 0);
 }
 
-.contatoemae{
+.contatoemae {
   font-size: 16px;
   color: #ff0000;
 }
 
-.blog{
+.blog {
   background-color: #9292927a;
   margin: 0;
   margin-top: 0;
 }
 
-.joao{
+.joao {
   background-color: #9292927a;
 }
 
-.my{
-    font-size: 24px;
-    color: #050505;
+.my {
+  font-size: 24px;
+  color: #050505;
 
 }
 
-.linked{
+.linked {
   font-size: 20px;
   color: rgb(0, 60, 255);
 }
 
-.sq{
+.sq {
   font-size: 20px;
   color: rgba(255, 0, 0, 0.685);
+}
+
+.nome {
+  background-color: #9292927a;
+  color: #0c0c0c7a;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.blo1{
+  color: #ffffff;
 }
