@@ -1,4 +1,4 @@
 ﻿# Portifolio
-Uma pequena demonstração sobre meus conhecimentos e se caso queira saber sobre mim.
+Uma pequena demonstração sobre meus conhecimentos que aprendo durante esses anos.
 
 https://portifoliodv.netlify.app/
