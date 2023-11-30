@@ -1,7 +1,7 @@
 ﻿# Portifolio
  Uma breve apresentação que oferece uma visão abrangente sobre os conhecimentos que adquiri ao longo dos anos. Essa demonstração destaca a evolução e a diversidade das habilidades e informações que acumulei durante o meu percurso, proporcionando uma perspectiva mais detalhada sobre a extensão e profundidade dos aprendizados ao longo do tempo.
  
-### Design prévio do projeto:
+
 
     public static void main(String[] args) {
     
@@ -13,7 +13,7 @@
         
         System.out.println("Obrigado por visitar!");
     }
-
+### Design prévio do projeto:
 
 ![Home](https://github.com/joaovitor022/portifolio/assets/137309600/d40ba660-4304-4138-9dba-457bc7da7139)]
 ![Home2](https://github.com/joaovitor022/portifolio/assets/137309600/11295ed1-91f0-4b0c-96ea-67abd6a524b2)
