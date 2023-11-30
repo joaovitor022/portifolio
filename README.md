@@ -5,10 +5,11 @@ public class PortfolioLink {
     public static void main(String[] args) {
        System.out.println("Confira Meu Portfólio"); 
         System.out.println("Fique à vontade para explorar meu trabalho e projetos no meu portfólio pessoal.");
-        System.out.println("[![Home](https://github.com/joaovitor022/portifolio/assets/137309600/d40ba660-4304-4138-9dba-457bc7da7139)](https://portifoliodv.netlify.app/)");
+        System.out.println([Portifolio](https://portifoliodv.netlify.app/);
         System.out.println("Obrigado por visitar!");
     }
 }
+[![Home](https://github.com/joaovitor022/portifolio/assets/137309600/d40ba660-4304-4138-9dba-457bc7da7139)]
 ![Home2](https://github.com/joaovitor022/portifolio/assets/137309600/11295ed1-91f0-4b0c-96ea-67abd6a524b2)
 ![Home3](https://github.com/joaovitor022/portifolio/assets/137309600/b0177eeb-536d-426f-9c55-4863b380d0c0)
 ![Contato](https://github.com/joaovitor022/portifolio/assets/137309600/a435d313-4e64-44c9-8186-8764ff444930)
